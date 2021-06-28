@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057279839935",
+    "project_id": "national-vaccination-org-742ea",
+    "storage_bucket": "national-vaccination-org-742ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057279839935:android:4cf5e24d54686bccb5800a",
+        "android_client_info": {
+          "package_name": "com.example.nationalvaccinationorganisation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057279839935-619c851h57rechcqdb2mjmqp958nb82f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAknrtSZ0-143GISroeFJdU-dwvfBx5OK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057279839935-619c851h57rechcqdb2mjmqp958nb82f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

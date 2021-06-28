@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Εθνικός Οργανισμός Εμβολιασμού</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Eθνικός Οργανισμός Εμβολιασμού</string>
+    <string name="nav_header_subtitle">myEmail@email.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Αρχική</string>
+    <string name="menu_gallery">Εικόνες και βίντεο</string>
+    <string name="menu_slideshow">Ραντεβού για εμβολιασμό</string>
+    <string name="menu_statistics">Στατιστικά Εμβολιασμού</string>
+    <string name="menu_questions">Συχνές ερωτήσεις</string>
+
+    //form
+    <string name="form_title">Αίτημα για ραντεβού</string>
+    <string name="form_name_hint">Όνομα</string>
+    <string name="form_surname_hint">Eπίθετο</string>
+    <string name="form_phone_hint">Τηλέφωνο</string>
+    <string name="form_amka_hint">ΑΜΚΑ</string>
+    <string name="form_email_hint">Έγκυρο E-mail</string>
+    <string name="form_button_hint">Αίτημα για ραντεβού</string>
+
+    //dates
+    <string name="date_from">πχ 2021-05-23</string>
+    <string name="date_to">πχ 2021-05-30</string>
+
+    //pics and videos
+    <string name="video_Title">Πατήστε στο από κάτω πλαίσιο για να δείτε το βίντεο</string>
+
+    //home
+    <string name="home_title">Σκοπός μας είναι να σας βοηθήσουμε να κλείσετε εύκολα και γρήγορα ραντεβού για τον εμβολιασμό σας κατά του ιού COVID-19</string>
+    <string name="home_subtitle">Σκοπός μας είναι να σας βοηθήσουμε να κλείσετε εύκολα και γρήγορα ραντεβού για τον εμβολιασμό σας κατά του ιού COVID-19 . Πλοηγηθείτε στο μενού και επιλέξτε \'Ραντεβού για εμβολιασμό\' .</string>
+    <string name="home_welcome">Καλως ήλθατε στην εφαρμογή του Εθνικού Οργανισμού Εμβολιασμού</string>
+
+    //stats
+    <string name="date_from_text">Hμερομηνία από:</string>
+    <string name="date_to_text">Hμερομηνία έως:</string>
+    <string name="btn_stats">ΑΝΑΖΗΤΗΣΗ</string>
+
+</resources>
